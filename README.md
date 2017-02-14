@@ -8,7 +8,7 @@ This is the initial release of the `tensorsets` repo.
 
 # Known issues
 
-This is a duct-tape POC. Using this in production will result in multiple RGEs.
+This is a POC. Using this in production may result in errors.
 
 ## Walkthrough
 
