@@ -1,6 +1,6 @@
 #TensorSets
 
-TensorSets are a [third-party resource](http://kubernetes.io/docs/user-guide/thirdpartyresources/) to manage [TensorFlow](https://github.com/tensorflow) training clusters running in [Kubernetes](https://github.com/tensorflow).
+TensorSets are a [third-party resource](http://kubernetes.io/docs/user-guide/thirdpartyresources/) to manage [TensorFlow](https://github.com/tensorflow) training clusters running in [Kubernetes](https://kubernetes.io/).
 
 ## What's new
 
