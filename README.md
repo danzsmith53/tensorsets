@@ -32,8 +32,6 @@ kubectl create -f kubernetes/cluster1-ts-v0.yaml
 
 The TensorSet controller will create your training cluster, and eventually you will see a bunch of pods in your current namespace.
 
->This can take up to xx minutes.
-
 Once they are all ready, start a training job:
 
 ```
